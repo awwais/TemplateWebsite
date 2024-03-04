@@ -2,8 +2,6 @@
  
 Hey 🤼
 
-I'm making this website as an template for junior developer. If you love this website, you can fork it or clone it on your systems.
+I make this website while learning Web Development it's my first Project in web development. ❤
 
-And then make changes to it that are in line with your vision. ❤
-
-[Website Check It Now](https://awwais.me/TemplateWebsite.github.io)
+[Website Check It Now](https://awwais.github.io/templateWebsite)
